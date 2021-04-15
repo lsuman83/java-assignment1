@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95c185b9-dcc2-4b65-b2ea-634ee89effda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a19afe1c-93b1-4bbf-ac02-fe344ddb0764" />
+  </component>
+  <component name="ProjectId" id="1rB20dropXdESdTBv0zMwTnehlV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
   <component name="RunManager">
     <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment1" />
@@ -13,5 +52,71 @@
         <item itemvalue="Application.Assignment1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95c185b9-dcc2-4b65-b2ea-634ee89effda" name="Default Changelist" comment="" />
+      <created>1618434940485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618434940485</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="258" key="GridCell.Tab.0.bottom" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state width="1342" height="258" key="GridCell.Tab.0.center" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state width="1342" height="258" key="GridCell.Tab.0.left" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state width="1342" height="258" key="GridCell.Tab.0.right" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1618435071871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1618435071871" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1618442515096">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618442515096" />
+    <state x="558" y="334" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1618443851454">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="558" y="334" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.864@0.0.1536.864" timestamp="1618443851454" />
   </component>
 </project>
